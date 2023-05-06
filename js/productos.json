@@ -1,0 +1,122 @@
+[
+    {
+        "id": "laptop-01",
+        "titulo": "Laptop 01",
+        "imagen": "./img/producto01.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "laptop-02",
+        "titulo": "Laptop 02",
+        "imagen": "./img/producto02.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "laptop-03",
+        "titulo": "Laptop 03",
+        "imagen": "./img/producto03.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "laptop-04",
+        "titulo": "Laptop 04",
+        "imagen": "./img/producto04.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "Accesorio 01",
+        "imagen": "./img/producto05.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-02",
+        "titulo": "Accesorio 02",
+        "imagen": "./img/producto06.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-03",
+        "titulo": "Accesorio 03",
+        "imagen": "./img/producto07.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "accesorio-04",
+        "titulo": "Accesorio 04",
+        "imagen": "./img/producto08.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juego-01",
+        "titulo": "Juego 01",
+        "imagen": "./img/producto09.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juego-02",
+        "titulo": "Juego 02",
+        "imagen": "./img/producto10.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juego-03",
+        "titulo": "Juego 03",
+        "imagen": "./img/producto11.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "juego-04",
+        "titulo": "Juego 04",
+        "imagen": "./img/producto12.jpg",
+        "categoria": {
+            "nombre": "Juegos",
+            "id": "juegos"
+        },
+        "precio": 1000
+    }
+]
